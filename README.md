@@ -1,6 +1,6 @@
 # 官民データ推進基本計画勝手ガイドライン(自治体向け)
 
-| ⚠️ This repository will be archived in the future, this config will no longer be maintained. Thanks for all the stars, help and brainstorms! |
+| ⚠️ This repository has been archived and will no longer be maintained. Thanks for all the stars, help and brainstorms! |
 
 | 作成日 | 2017/12/21 |
 |---|---|
